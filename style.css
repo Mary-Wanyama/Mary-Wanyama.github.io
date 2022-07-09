@@ -69,5 +69,9 @@ p{
     align-items: center;
 }
 .form{
-    
+    margin-right: 3vw;
+}
+.form1{
+    margin-left: 5vw;
+    margin-right: 5vw;
 }
