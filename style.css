@@ -1,0 +1,41 @@
+*{
+    font-family: poppins, inter;
+    color: white;
+    text-decoration: none;
+    background-color: purple;
+}
+.div1{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-top: 0.7vw;
+    padding-bottom: 0.7vw;
+    font-size: 1.5vw;
+    text-decoration: none;
+}
+#div1{
+    font-size: 1.5vw;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+
+}
+button{
+    background-color: #FC6A03;
+    width: 15vw;
+    height: 5vw;
+}
+
+.div2{
+    background-image: ;
+    display: flex;
+}
