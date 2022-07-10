@@ -46,7 +46,7 @@ button{
     width: 100%;
     background-image: url("image 1.png");
     width: 98vw;
-    height: 90vh;
+    height: 60vw;
     background-image: url("image 1.png");
     background-size: 98vw 100%;
     background-repeat: no-repeat;
@@ -129,7 +129,7 @@ p{
     left: 7%;
 }
 .p1{
-    font-size: 1.25vw;
+    font-size: 1.5vw;
 }
 #button2{
 font-size: 1.5vw;
@@ -137,4 +137,7 @@ font-size: 1.5vw;
 .place{
     font-size: 1vw;
     font-weight: 700;
+}
+.position{
+    width: 60%;
 }
