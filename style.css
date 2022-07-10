@@ -35,7 +35,7 @@ button{
     justify-content: space-between;
     align-items: center;
     position: absolute;
-    bottom: 0vh;
+    top: 100%;
     right: 13vw;
     border-width: 3px;
     box-shadow: 0vw 1vh 0.1em grey;
@@ -46,7 +46,7 @@ button{
     width: 100%;
     background-image: url("image 1.png");
     width: 98vw;
-    height: 60vw;
+    height: 55vw;
     background-image: url("image 1.png");
     background-size: 98vw 100%;
     background-repeat: no-repeat;
