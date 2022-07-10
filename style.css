@@ -1,3 +1,6 @@
+html{
+    overflow-x: hidden;
+}
 *{
     font-family: poppin, inter;
     font-size: 1.5vw;
@@ -191,6 +194,6 @@ font-size: 1.5vw;
 }
 #arrow{
     color: #ED661F;
-    font-size: 5vw;
-    font-weight: 700;
+    font-size: 2vw;
+    border-radius: 10%;
 }
