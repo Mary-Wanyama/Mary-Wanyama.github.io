@@ -141,3 +141,44 @@ font-size: 1.5vw;
 .position{
     width: 100%;
 }
+.last{
+    padding-left: 5%;
+}
+.image5{
+    padding: 0%;
+    border-radius: 5%;
+    margin-right: 3%;
+}
+.twitter{
+    border-radius: 50%;
+    margin-right: 0.7%;
+    padding: 0.3%;
+    background-color: rgb(253, 250, 250);
+}
+.agri{
+    font-size: 3vw;
+}
+.farm{
+    font-size: 1vw;
+}
+.table{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 10%;
+    width: 40vw;
+}
+.form7{
+    margin-right: 10%;
+    width: 20vw;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.email{
+    border: none;
+    height:3vw ;
+}
+.subscribe{
+    border: none;
+    height: 3vw;
+}
