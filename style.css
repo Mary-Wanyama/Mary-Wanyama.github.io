@@ -125,12 +125,15 @@ p{
     align-items: center;
     background-color: black;
     color: white;
+    height: 50%;
+    width: 100%;
+    margin-bottom: 0%;
 }
 .border{
     background-color: black;
     color: white;
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 5%;
+    padding-bottom: 6%;
 }
 .div2{
     position: relative;
@@ -297,4 +300,9 @@ h3{
 position: relative;
 left: 5%;
 top: 0%;
+}
+.reserved{
+    background-color: black;
+    color: white;
+    margin-top: 0%;
 }
