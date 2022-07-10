@@ -48,7 +48,7 @@ button{
     width: 98vw;
     height: 90vh;
     background-image: url("image 1.png");
-    background-size: 98vw 90vh;
+    background-size: 98vw 100%;
     background-repeat: no-repeat;
     clear: both;
     padding-left: 5%;
