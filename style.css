@@ -55,7 +55,8 @@ button{
     background-repeat: no-repeat;
     clear: both;
     padding-left: 5%;
-
+    position: relative;
+    top: -20%;
 }
 .h2{
     margin-top: 22vh;
@@ -94,7 +95,6 @@ p{
 .p4{
     background-color: grey;
     height: 3vh;
-    margin-top: ;
 }
 .form2{
     display: flex;
@@ -125,7 +125,7 @@ p{
 .div2{
     position: relative;
     top: -33%;
-    left: 40%;
+    left: 45%;
 
 
 }
