@@ -284,8 +284,7 @@ h3{
     bottom: 0%;
 }
 .position11{
-    position: absolute;
-    right: 10%;
-    top: 124%;
-    position: sticky;
+position: relative;
+left: 5%;
+top: 0%;
 }
