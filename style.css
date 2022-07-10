@@ -2,7 +2,7 @@ html{
     overflow-x: hidden;
 }
 *{
-    font-size: 1.5vw;
+    font-size: 1vw;
     font-family: sans-serif;
 }
 header{
@@ -21,6 +21,12 @@ header{
 a{
     color: white;
     text-decoration: none;
+}
+a:hover{
+    color: #ED661F;
+    font-size: 2vw;
+    text-shadow: 3px 3px 0.2em #ED661F;
+    box-shadow: 3px 3px 0.2em  #ED661F;
 }
 button{
     color: white;
@@ -41,9 +47,11 @@ button{
     box-shadow: 0vw 1vh 0.1em grey;
     background-color: white;
     position: relative;
-    left: 27%;
+    left: 23%;
     top: -13%;
     height: 12vw;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 .div3{
     width: 100%;
@@ -56,7 +64,9 @@ button{
     clear: both;
     padding-left: 5%;
     position: relative;
-    top: -20%;
+    top: -50%;
+    right:0%;
+    margin-top: 0%;
 }
 .h2{
     margin-top: 22vh;
