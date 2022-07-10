@@ -43,6 +43,8 @@ button{
     border-width: 3px;
     box-shadow: 0vw 1vh 0.1em grey;
     background-color: white;
+    position: sticky;
+    left:33%
 
 }
 .div3{
@@ -285,4 +287,5 @@ h3{
     position: absolute;
     right: 10%;
     top: 124%;
+    position: static;
 }
