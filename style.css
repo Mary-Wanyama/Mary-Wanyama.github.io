@@ -209,7 +209,7 @@ p{
 }
 .subscribe{
     border: none;
-    height: 3.2vw;
+    height: 3.25vw;
 }
 #read{
     display: flex;
@@ -281,6 +281,7 @@ p{
     bottom: -3%;
 }
 .p3{
+    color: black;
     position: relative;
 }
 .p3::after{
@@ -294,6 +295,7 @@ p{
 }
 .read{
     position: relative;
+    color: black;
 }
 .read::after{
     content:'';
