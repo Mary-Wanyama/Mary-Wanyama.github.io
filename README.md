@@ -6,17 +6,19 @@ This project is a online platform for ordering farm products as well as selling 
 # Technologies used in this project are.
  1. HTML
  2. Css
- 3. VS code
- 4. Chrome
- 5. Internet
- 6. Git
- 7. Github
 # Dependencies
->CSS
->HTML
+>This project does not have any previous dependancy projects.
 # Author
 Mary Wanyama
 # Contact
 immaculatemary@gmail.com
 # Licence
-distributed under MIT
+>distributed under MIT
+>his is a simple licence with a recuring preservation of copyrights and notices. the licenes work can be modified and distributed in different terms without the source code.
+## The limitations of this licence 
+>Liability and Warranty
+## permissions of this licence
+> Private use
+> Commercial use
+> Modification
+> Distribution.
