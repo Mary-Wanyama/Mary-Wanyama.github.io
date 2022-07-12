@@ -349,10 +349,14 @@ p{
     width: 80%;
 }
 .star{
-    font-size: 400%;
+    font-size: 350%;
     color: #ED661F;
 }
 .grey{
-    font-size: 400%;
+    font-size: 350%;
     color: grey;
+}
+#form5{
+    margin-left: 7%;
+    margin-right: 7%;
 }
