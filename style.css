@@ -238,7 +238,7 @@ p{
     display: flex;
     justify-content: end;
     align-items: center;
-    margin-right: 3vw;
+    margin-right: 10%;
 }
 #arrow{
     color: #ED661F;
@@ -246,7 +246,7 @@ p{
     border-radius: 10%;
 }
 #most{
-    margin-left: 5%;
+    margin-left: 10%;
 }
 .dash{
     color: #ED661F;
