@@ -234,6 +234,7 @@ p{
     height:3vw ;
     padding-bottom: 0.2vw;
     width: 23%;
+    font-size: 1.2vw;
 }
 .subscribe{
     border: none;
@@ -378,11 +379,11 @@ p{
     width: 80%;
 }
 .star{
-    font-size: 300%;
+    font-size: 500%;
     color: #ED661F;
 }
 .grey{
-    font-size: 300%;
+    font-size: 500%;
     color: grey;
 }
 #form5{
