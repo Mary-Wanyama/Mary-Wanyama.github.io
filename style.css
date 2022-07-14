@@ -73,7 +73,7 @@ button{
     background-color: white;
     position: relative;
     left: 31%;
-    top: -7%;
+    top: -4.5%;
     height: 9vw;
     padding-left: 4%;
     padding-right: 4%;
@@ -94,7 +94,7 @@ button{
 }
 .h2{
     margin-top: 22vh;
-    font-size: 3.5vw;
+    font-size: 3.3vw;
     margin-bottom: 1%;
 }
 .container3{
@@ -172,18 +172,18 @@ p{
 }
 .div2{
     position: relative;
-    top: -33%;
+    top: -30%;
     left: 45%;
 
 
 }
 .div1{
     position: relative;
-    top: 27%;
-    left: 1%;
+    top: 28%;
+    left: 4%;
 }
 .p1{
-    font-size: 1.4vw;
+    font-size: 1.3vw;
     margin-top: 0%;
 }
 #button2{
