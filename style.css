@@ -120,8 +120,8 @@ p{
     margin-right: 8%;
 }
 .form{
-    margin-right: 3vw;
-    margin-left: 3vw;
+    margin-right: 4vw;
+    margin-left: 4vw;
     
 }
 .form1{
@@ -400,9 +400,9 @@ p{
     position: absolute;
     content: '';
     background-color: #ED661F;
-    height: 10%;
-    width: 2vw;
-    bottom: -2%;
+    height: 15%;
+    width: 3vw;
+    bottom: -3%;
     left: 0%;
 }
 .first{
