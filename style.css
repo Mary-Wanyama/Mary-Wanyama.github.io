@@ -388,3 +388,15 @@ p{
 .mursik{
     margin-top: 3%;
 }
+.home{
+    position: relative;
+}
+.home::after{
+    position: absolute;
+    content: '';
+    background-color: #ED661F;
+    height: 10%;
+    width: 2vw;
+    bottom: -2%;
+    left: 0%;
+}
