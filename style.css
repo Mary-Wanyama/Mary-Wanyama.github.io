@@ -9,8 +9,20 @@ html, body{
    padding-bottom: 0px;
 }
 *{
-    font-size: 1.2vw;
+    font-size: 0.8vw;
     font-family: sans-serif;
+}
+p{
+    font-size: 1vw;
+}
+h5{
+    font-size: 1vw;
+}
+h6{
+    font-size: 0.9vw;
+}
+h3{
+    font-size: 2.5;
 }
 header{
     color: white;
@@ -50,7 +62,7 @@ button{
 }
 
 .container2{
-    width: 54vw;
+    width: 43vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -58,11 +70,11 @@ button{
     box-shadow: 0vw 1vh 0.1em grey;
     background-color: white;
     position: relative;
-    left: 23%;
-    top: -13%;
-    height: 12vw;
-    padding-left: 2%;
-    padding-right: 2%;
+    left: 31%;
+    top: -7%;
+    height: 9vw;
+    padding-left: 4%;
+    padding-right: 4%;
 }
 .div3{
     background-image: url("image 1.png");
@@ -80,8 +92,8 @@ button{
 }
 .h2{
     margin-top: 22vh;
-    font-size: 3vw;
-    font-size:3.86vw ;
+    font-size: 3.5vw;
+    margin-bottom: 1%;
 }
 .container3{
     display: flex;
@@ -101,14 +113,19 @@ p{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 .form{
     margin-right: 3vw;
-    margin-left: 7%;
+    margin-left: 3vw;
+    
 }
 .form1{
-    margin-left: 4vw;
+    margin-left: 3vw;
     margin-right: 3vw;
+    height: fit-content;
+    box-sizing: border-box;
 }
 .p4{
     background-color: grey;
@@ -120,13 +137,16 @@ p{
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .form3{
     padding-left: 1vw;
     width: 25%;
-    margin-left: 4vw;
+    margin-left: 0%;
     box-shadow: 0vw 1vh 0.2em black;
-    margin-right: 4vw;
+    margin-right: 0vw;
+    height: fit-content;
 }
 .flex-container{
     display: flex;
@@ -159,11 +179,13 @@ p{
     left: 1%;
 }
 .p1{
-    font-size: 1.5vw;
+    font-size: 1.4vw;
+    margin-top: 0%;
 }
 #button2{
     font-size: 1.5vw;
     width: 20%;
+    height: 6vw;
 }
 .place{
     font-size: 1vw;
@@ -349,14 +371,20 @@ p{
     width: 80%;
 }
 .star{
-    font-size: 350%;
+    font-size: 300%;
     color: #ED661F;
 }
 .grey{
-    font-size: 350%;
+    font-size: 300%;
     color: grey;
 }
 #form5{
     margin-left: 7%;
     margin-right: 7%;
+}
+.cereals{
+    margin-bottom: 5%;
+}
+.mursik{
+    margin-top: 3%;
 }
