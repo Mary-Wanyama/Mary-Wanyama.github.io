@@ -399,7 +399,7 @@ p{
 .home{
     position: relative;
 }
-.home::after{
+.home::after::hover{
     position: absolute;
     content: '';
     background-color: #ED661F;
