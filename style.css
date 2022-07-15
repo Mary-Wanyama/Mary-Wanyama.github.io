@@ -263,10 +263,11 @@ p{
 }
 .h3{
     position: relative;
+    padding-bottom: 0.2vw;
 }
 .h3::after{
     content:'';
-    height: 13%;
+    height: 9%;
     width: 12%;
     background-color: #ED661F;
     position: absolute;
@@ -275,11 +276,12 @@ p{
 }
 .category{
     position: relative;
+    padding-bottom: 0.7vw;
 }
 .category::after
 {
     content:'';
-    height: 13%;
+    height: 9%;
     width: 5%;
     background-color: #ED661F;
     position: absolute;
@@ -287,11 +289,12 @@ p{
     bottom: -3%;
 }
 .popular{
-    position:relative
+    position:relative;
+    padding-bottom: 0.5vw;
 }
 .popular::after{
     content:'';
-    height: 13%;
+    height: 9%;
     width: 6%;
     background-color: #ED661F;
     position: absolute;
@@ -300,10 +303,11 @@ p{
 }
 .new{
     position: relative;
+    padding-bottom: 0.5vw;
 }
 .new::after{
     content:'';
-    height: 13%;
+    height: 10%;
     width: 4%;
     background-color: #ED661F;
     position: absolute;
@@ -313,10 +317,11 @@ p{
 .p3{
     color: black;
     position: relative;
+    padding-bottom: 00.5vw;
 }
 .p3::after{
     content:'';
-    height: 13%;
+    height: 9%;
     width: 36%;
     background-color: #ED661F;
     position: absolute;
@@ -326,10 +331,11 @@ p{
 .read{
     position: relative;
     color: black;
+    padding-bottom: 0.5%;
 }
 .read::after{
     content:'';
-    height: 13%;
+    height: 9%;
     width: 45%;
     background-color: #ED661F;
     position: absolute;
