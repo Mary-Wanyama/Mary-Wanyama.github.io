@@ -172,15 +172,15 @@ p{
 }
 .div2{
     position: relative;
-    top: -30%;
-    left: 45%;
+    top: -27%;
+    left: 39%;
 
 
 }
 .div1{
     position: relative;
     top: 28%;
-    left: 4%;
+    left: 5%;
 }
 .p1{
     font-size: 1.3vw;
@@ -267,6 +267,7 @@ p{
 .h3{
     position: relative;
     padding-bottom: 0.2vw;
+    
 }
 .h3::after{
     content:'';
@@ -320,7 +321,8 @@ p{
 .p3{
     color: black;
     position: relative;
-    padding-bottom: 00.5vw;
+    padding-bottom: 0.5vw;
+    font-weight: 550;
 }
 .p3::after{
     content:'';
@@ -335,6 +337,7 @@ p{
     position: relative;
     color: black;
     padding-bottom: 0.2vw;
+    font-weight: 550;
 }
 .read::after{
     content:'';
@@ -368,7 +371,7 @@ p{
 }
 .border::after{
     content:'';
-    height: 3%;
+    height: 1.5%;
     width: 100%;
     background-color: white;
     position: absolute;
