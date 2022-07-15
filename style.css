@@ -57,10 +57,10 @@ button{
     background-color: #ED661F;
     border: none;
     padding: 1vw;
-    font-size: 1.5vw;
+    font-size: 1.3vw;
     font-weight: 600;
-    width: 15vw;
-    height: 4vw;
+    width: 9vw;
+    height: 3.2vw;
 }
 
 .container2{
@@ -187,9 +187,12 @@ p{
     margin-top: 0%;
 }
 #button2{
-    font-size: 1.5vw;
-    width: 20%;
-    height: 6vw;
+    font-size: 1.6vw;
+    width: 12%;
+    height: 5vw;
+    font-weight: 600;
+    padding-left: 0%;
+    padding-right: 0%;
 }
 .place h4{
    font-size: 1.15vw;
@@ -321,7 +324,7 @@ p{
 }
 .p3::after{
     content:'';
-    height: 9%;
+    height: 7%;
     width: 36%;
     background-color: #ED661F;
     position: absolute;
@@ -331,7 +334,7 @@ p{
 .read{
     position: relative;
     color: black;
-    padding-bottom: 0.5%;
+    padding-bottom: 0.2vw;
 }
 .read::after{
     content:'';
