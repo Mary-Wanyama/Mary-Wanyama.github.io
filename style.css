@@ -191,8 +191,8 @@ p{
     width: 20%;
     height: 6vw;
 }
-.place{
-    font-size: 1vw;
+.place h4{
+   font-size: 1.15vw;
     font-weight: 700;
 }
 .last{
