@@ -442,3 +442,10 @@ p{
     margin-bottom: 1vw;
     margin-top: 1vw;
 }
+.start{
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    font-size: 1.2vw;
+}
